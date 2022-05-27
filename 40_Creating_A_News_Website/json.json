@@ -1,0 +1,95 @@
+{
+    "statusCode": 200,
+    "articles": [
+        {
+            "published_date": "2022-05-26T02:10:00+00:00",
+            "title": "21 killed in Texas elementary school shooting: Live updates - CNN",
+            "link": "https://www.cnn.com/us/live-news/texas-elementary-school-shooting-05-25-22/",
+            "source": {
+                "title": "CNN",
+                "url": "https://www.cnn.com"
+            }
+        },
+        {
+            "published_date": "2022-05-26T03:57:00+00:00",
+            "title": "Beto O'Rourke interrupts Greg Abbott's Uvalde press conference: \"You are doing nothing\" - CBS News",
+            "link": "https://www.cbsnews.com/news/texas-mass-shooting-beto-orourke-interrupt-greg-abbott-press-conference/",
+            "source": {
+                "title": "CBS News",
+                "url": "https://www.cbsnews.com"
+            }
+        },
+        {
+            "published_date": "2022-05-25T20:31:10+00:00",
+            "title": "Don McLean drops out of performance at NRA convention - Press Herald",
+            "link": "https://www.pressherald.com/2022/05/25/don-mclean-drops-out-of-performance-at-nra-convention/",
+            "source": {
+                "title": "Press Herald",
+                "url": "https://www.pressherald.com"
+            }
+        },
+        {
+            "published_date": "2022-05-25T17:20:43+00:00",
+            "title": "'It's cowardly': John King on Congress' failure to act after mass shootings - CNN",
+            "link": "https://www.youtube.com/watch?v=3nIFsguwP_w",
+            "source": {
+                "title": "CNN",
+                "url": "https://www.youtube.com"
+            }
+        },
+        {
+            "published_date": "2022-05-26T03:18:00+00:00",
+            "title": "Biden signs police order on second anniversary of George Floyd's death - Reuters.com",
+            "link": "https://www.reuters.com/world/us/biden-signs-police-order-second-anniversary-george-floyds-death-2022-05-25/",
+            "source": {
+                "title": "Reuters.com",
+                "url": "https://www.reuters.com"
+            }
+        },
+        {
+            "published_date": "2022-05-25T16:42:00+00:00",
+            "title": "Donald Trump had a rough night in Georgia - CNN",
+            "link": "https://www.cnn.com/2022/05/25/politics/donald-trump-georgia-primary-brian-kemp/index.html",
+            "source": {
+                "title": "CNN",
+                "url": "https://www.cnn.com"
+            }
+        },
+        {
+            "published_date": "2022-05-25T20:25:00+00:00",
+            "title": "Kaitlin Armstrong fled to New York City after love-triangle slaying: authorities - New York Post",
+            "link": "https://nypost.com/2022/05/25/kaitlin-armstrong-fled-to-new-york-city-after-love-triangle-slaying/",
+            "source": {
+                "title": "New York Post",
+                "url": "https://nypost.com"
+            }
+        },
+        {
+            "published_date": "2022-05-26T02:09:04+00:00",
+            "title": "Oklahoma Governor Signs Bill That Bans Most Abortions - The New York Times",
+            "link": "https://www.nytimes.com/2022/05/25/us/oklahoma-abortion-ban-law-governor.html",
+            "source": {
+                "title": "The New York Times",
+                "url": "https://www.nytimes.com"
+            }
+        },
+        {
+            "published_date": "2022-05-25T22:33:00+00:00",
+            "title": "Nancy Brophy, romance novelist who wrote \"How to Murder Your Husband,\" found guilty of murder 4 years after chef spouse found dead in kitchen - CBS News",
+            "link": "https://www.cbsnews.com/news/nancy-brophy-guilty-murder-husband-daniel-brophy-found-dead-culinary-school-kitchen/",
+            "source": {
+                "title": "CBS News",
+                "url": "https://www.cbsnews.com"
+            }
+        },
+        {
+            "published_date": "2022-05-25T22:31:00+00:00",
+            "title": "Texas bar seeks to punish AG Ken Paxton for election lawsuit - The Hill",
+            "link": "https://thehill.com/news/state-watch/3501940-texas-bar-seeks-to-punish-ag-ken-paxton-for-election-lawsuit/",
+            "source": {
+                "title": "The Hill",
+                "url": "https://thehill.com"
+            }
+        }
+    ]
+}

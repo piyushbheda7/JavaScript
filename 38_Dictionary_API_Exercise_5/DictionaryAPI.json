@@ -1,0 +1,334 @@
+{
+  "Word": [
+    {
+      "word": "example",
+      "definitions": [
+        {
+          "definition": "a representative form or pattern",
+          "partOfSpeech": "noun"
+        },
+        {
+          "definition": "something to be imitated",
+          "partOfSpeech": "noun"
+        },
+        {
+          "definition": "an occurrence of something",
+          "partOfSpeech": "noun"
+        },
+        {
+          "definition": "an item of information that is typical of a class or group",
+          "partOfSpeech": "noun"
+        },
+        {
+          "definition": "punishment intended as a warning to others",
+          "partOfSpeech": "noun"
+        },
+        {
+          "definition": "a task performed or problem solved in order to develop skill or understanding",
+          "partOfSpeech": "noun"
+        }
+      ]
+    },
+    {
+      "word": "type",
+      "definitions": [
+        {
+          "definition": "a person of a specified kind (usually with many eccentricities)",
+          "partOfSpeech": "noun"
+        },
+        {
+          "definition": "identify as belonging to a certain type",
+          "partOfSpeech": "verb"
+        },
+        {
+          "definition": "write by means of a keyboard with types",
+          "partOfSpeech": "verb"
+        },
+        {
+          "definition": "all of the tokens of the same symbol",
+          "partOfSpeech": "noun"
+        },
+        {
+          "definition": "a small metal block bearing a raised character on one end; produces a printed character when inked and pressed on paper",
+          "partOfSpeech": "noun"
+        },
+        {
+          "definition": "a subdivision of a particular kind of thing",
+          "partOfSpeech": "noun"
+        },
+        {
+          "definition": "(biology) the taxonomic group whose characteristics are used to define the next higher taxon",
+          "partOfSpeech": "noun"
+        },
+        {
+          "definition": "printed characters",
+          "partOfSpeech": "noun"
+        }
+      ]
+    },
+    {
+      "word": "control",
+      "definitions": [
+        {
+          "definition": "handle and cause to function",
+          "partOfSpeech": "verb"
+        },
+        {
+          "definition": "exercise authoritative control or power over",
+          "partOfSpeech": "verb"
+        },
+        {
+          "definition": "lessen the intensity of; temper; hold in restraint; hold or keep within limits",
+          "partOfSpeech": "verb"
+        },
+        {
+          "definition": "a standard against which other conditions can be compared in a scientific experiment",
+          "partOfSpeech": "noun"
+        },
+        {
+          "definition": "place under restrictions; limit access to by law",
+          "partOfSpeech": "verb"
+        },
+        {
+          "definition": "discipline in personal and social activities",
+          "partOfSpeech": "noun"
+        },
+        {
+          "definition": "be careful or certain to do something; make certain of something",
+          "partOfSpeech": "verb"
+        },
+        {
+          "definition": "maintain influence over (others or oneself) skillfully, usually to one's advantage",
+          "partOfSpeech": "verb"
+        },
+        {
+          "definition": "the state that exists when one person or group has power over another",
+          "partOfSpeech": "noun"
+        },
+        {
+          "definition": "check or regulate (a scientific experiment) by conducting a parallel experiment or comparing with another standard",
+          "partOfSpeech": "verb"
+        },
+        {
+          "definition": "great skillfulness and knowledge of some subject or activity",
+          "partOfSpeech": "noun"
+        },
+        {
+          "definition": "a mechanism that controls the operation of a machine",
+          "partOfSpeech": "noun"
+        },
+        {
+          "definition": "have a firm understanding or knowledge of; be on top of",
+          "partOfSpeech": "verb"
+        },
+        {
+          "definition": "a relation of constraint of one entity (thing or person or group) by another",
+          "partOfSpeech": "noun"
+        },
+        {
+          "definition": "a spiritual agency that is assumed to assist the medium during a seance",
+          "partOfSpeech": "noun"
+        },
+        {
+          "definition": "(physiology) regulation or maintenance of a function or action or reflex etc",
+          "partOfSpeech": "noun"
+        },
+        {
+          "definition": "power to direct or determine",
+          "partOfSpeech": "noun"
+        },
+        {
+          "definition": "the activity of managing or exerting control over something",
+          "partOfSpeech": "noun"
+        },
+        {
+          "definition": "the economic policy of controlling or limiting or curbing prices or wages etc.",
+          "partOfSpeech": "noun"
+        },
+        {
+          "definition": "verify by using a duplicate register for comparison",
+          "partOfSpeech": "verb"
+        }
+      ]
+    },
+    {
+      "word": "word",
+      "definitions": [
+        {
+          "definition": "the divine word of God; the second person in the Trinity (incarnate in Jesus)",
+          "partOfSpeech": "noun"
+        },
+        {
+          "definition": "information about recent and important events",
+          "partOfSpeech": "noun"
+        },
+        {
+          "definition": "an exchange of views on some topic",
+          "partOfSpeech": "noun"
+        },
+        {
+          "definition": "a secret word or phrase known only to a restricted group",
+          "partOfSpeech": "noun"
+        },
+        {
+          "definition": "the sacred writings of the Christian religions",
+          "partOfSpeech": "noun"
+        },
+        {
+          "definition": "a promise",
+          "partOfSpeech": "noun"
+        },
+        {
+          "definition": "put into words or an expression",
+          "partOfSpeech": "verb"
+        },
+        {
+          "definition": "a brief statement",
+          "partOfSpeech": "noun"
+        },
+        {
+          "definition": "a string of bits stored in computer memory",
+          "partOfSpeech": "noun"
+        },
+        {
+          "definition": "a unit of language that native speakers can identify",
+          "partOfSpeech": "noun"
+        },
+        {
+          "definition": "a verbal command for action",
+          "partOfSpeech": "noun"
+        }
+      ]
+    },
+    {
+      "word": "use",
+      "definitions": [
+        {
+          "definition": "exerting shrewd or devious influence especially for one's own advantage",
+          "partOfSpeech": "noun"
+        },
+        {
+          "definition": "use up, consume fully",
+          "partOfSpeech": "verb"
+        },
+        {
+          "definition": "avail oneself to",
+          "partOfSpeech": "verb"
+        },
+        {
+          "definition": "(economics) the utilization of economic goods to satisfy needs or in manufacturing",
+          "partOfSpeech": "noun"
+        },
+        {
+          "definition": "the act of using",
+          "partOfSpeech": "noun"
+        },
+        {
+          "definition": "take or consume (regularly or habitually)",
+          "partOfSpeech": "verb"
+        },
+        {
+          "definition": "what something is used for",
+          "partOfSpeech": "noun"
+        },
+        {
+          "definition": "(psychology) an automatic pattern of behavior in reaction to a specific situation; may be inherited or acquired through frequent repetition",
+          "partOfSpeech": "noun"
+        },
+        {
+          "definition": "(law) the exercise of the legal right to enjoy the benefits of owning property",
+          "partOfSpeech": "noun"
+        },
+        {
+          "definition": "put into service; make work or employ for a particular purpose or for its inherent or natural purpose",
+          "partOfSpeech": "verb"
+        },
+        {
+          "definition": "a particular service",
+          "partOfSpeech": "noun"
+        },
+        {
+          "definition": "habitually do something or be in a certan state or place (use only in the past tense)",
+          "partOfSpeech": "verb"
+        },
+        {
+          "definition": "seek or achieve an end by using to one's advantage",
+          "partOfSpeech": "verb"
+        }
+      ]
+    },
+    {
+      "word": "lookup",
+      "definitions": [
+        {
+          "definition": "an operation that determines whether one or more of a set of items has a specified property",
+          "partOfSpeech": "noun"
+        }
+      ]
+    },
+    {
+      "word": "hookup",
+      "definitions": [
+        {
+          "definition": "a system of components assembled together for a particular purpose",
+          "partOfSpeech": "noun"
+        },
+        {
+          "definition": "a device providing a connection between a power source and a user",
+          "partOfSpeech": "noun"
+        }
+      ]
+    },
+    {
+      "word": "fuck",
+      "definitions": [
+        {
+          "definition": "have sexual intercourse with",
+          "partOfSpeech": "verb"
+        },
+        {
+          "definition": "slang for sexual intercourse",
+          "partOfSpeech": "noun"
+        }
+      ]
+    },
+    {
+      "word": "motherfucker",
+      "definitions": [
+        {
+          "definition": "insulting terms of address for people who are stupid or irritating or ridiculous",
+          "partOfSpeech": "noun"
+        }
+      ]
+    },
+    {
+      "word": "bitch",
+      "definitions": [
+        {
+          "definition": "informal terms for objecting",
+          "partOfSpeech": "noun"
+        },
+        {
+          "definition": "a person (usually but not necessarily a woman) who is thoroughly disliked",
+          "partOfSpeech": "noun"
+        },
+        {
+          "definition": "say mean things",
+          "partOfSpeech": "verb"
+        },
+        {
+          "definition": "complain",
+          "partOfSpeech": "verb"
+        },
+        {
+          "definition": "an unpleasant difficulty",
+          "partOfSpeech": "noun"
+        },
+        {
+          "definition": "female of any member of the dog family",
+          "partOfSpeech": "noun"
+        }
+      ]
+    }
+  ]
+}
